@@ -80,7 +80,7 @@ Oracle SOA Suite 12C Implementation Specialist — Oracle (2017)
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JorellDacasin&theme=github-dark-blue&hide_border=true" alt="Jorell's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JorellDacasin&theme=gruvbox&hide_border=true" alt="Jorell's GitHub Streak" />
 </p>
 
 ---
