@@ -2,8 +2,6 @@
 
 **A passionate Cloud & DevOps Engineer with over 12 years of experience**
 
-📍 Based in **Dubai, UAE**
-
 🌐 Portfolio: [jorelldacasin.github.io/jorell-cv](https://jorelldacasin.github.io/jorell-cv/)
 
 ---
