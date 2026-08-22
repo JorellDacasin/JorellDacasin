@@ -2,8 +2,6 @@
 
 **A passionate Cloud & DevOps Engineer with over 12 years of experience**
 
-🌐 Portfolio: [jorelldacasin.github.io/jorell-cv](https://jorelldacasin.github.io/jorell-cv/)
-
 ---
 
 ## ⚡ My Skills in Cloud & DevOps:
